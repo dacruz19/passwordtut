@@ -1,6 +1,6 @@
 import random
 import os
-from getpass import getpass()
+from getpass import getpass
 
 password = getpass("Key: ")
 
